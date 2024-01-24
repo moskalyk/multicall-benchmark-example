@@ -59,7 +59,7 @@ const main = async () => {
       return '' 
   }
 
-  getBalances("<address>").then(blob => {
+  getBalances("<wallet_address>").then(blob => {
       // console.log(blob)
   }).catch(error => {
       console.error("Error fetching balance:", error);

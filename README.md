@@ -1,3 +1,3 @@
 # multicall-benchmark-example
 
-to test, input your wallet <address> and <access_key>
+to test, input your <wallet_address> and <access_key>
