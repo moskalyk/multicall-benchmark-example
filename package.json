@@ -1,0 +1,14 @@
+{
+  "name": "multicall",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@0xsequence/multicall": "^1.2.8",
+    "ethers": "5.7.2"
+  }
+}
